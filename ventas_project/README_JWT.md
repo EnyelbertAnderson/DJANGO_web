@@ -88,10 +88,3 @@ Content-Type: application/json
   "refresh": "<refresh_token>"
 }
 ```
-
-## 6. Notas
-- Elimina o comenta la autenticación por Token si solo usarás JWT.
-- Puedes seguir usando el admin de Django con tu usuario superusuario.
-
----
-¡Listo! Ahora tu API usa autenticación JWT estándar.
